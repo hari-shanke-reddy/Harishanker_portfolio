@@ -11,17 +11,6 @@ A simple portfolio  built with React.js and email.js
 - React-Bootstrap
 - Edit Content From One Place
 
-### Setup
- 
-Install required dependencies
-
-<pre>yarn install</pre>
-
-
-Start the server
-
-<pre>yarn start</pre>
-
 
 
 ### Thanks
