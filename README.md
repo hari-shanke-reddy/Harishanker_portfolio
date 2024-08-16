@@ -1,10 +1,7 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+A simple portfolio  built with React.js and email.js
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
-
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
 
 ### Features
 
@@ -15,10 +12,6 @@ A simple portfolio template for developer/designers built with React.
 - Edit Content From One Place
 
 ### Setup
-
-Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
  
 Install required dependencies
 
@@ -29,9 +22,7 @@ Start the server
 
 <pre>yarn start</pre>
 
-### More
 
-Modify pages content in  `src/content_option.js`.
 
 ### Thanks
 
